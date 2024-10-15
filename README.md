@@ -15,5 +15,7 @@ This package is composed of two submodules:
 If you use this code, please cite:  
 **Josep Rueda Collell**. "ROS2 Extrinsic Camera Calibrator using ArUco Markers". (2024).
 
+## License
+
 This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
 See the [LICENSE](https://github.com/pep248/extrinsic_calibrator/blob/main/LICENSE) file for more details.
