@@ -136,8 +136,8 @@ sudo pip install -r src/extrinsic_calibrator_core/dependencies.txt
 
 **Author:** Josep Rueda Collell  
 **Created:** October 2024  
-**Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)
-**Affiliation:** [IKERLAN](https://www.ikerlan.es)
+**Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)  
+**Affiliation:** [IKERLAN](https://www.ikerlan.es)  
 
 ### Citation
 If you use this code, please cite:  
