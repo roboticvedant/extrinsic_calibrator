@@ -46,5 +46,5 @@ Horizon Europe – Grant Agreement number [101058589](https://cordis.europa.eu/p
 ## License
 
 This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
-See the [LICENSE](./LICENSE) file for more details.
+See the [LICENSE](./license.md) file for more details.
 
