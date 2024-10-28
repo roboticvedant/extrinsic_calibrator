@@ -150,11 +150,29 @@ rosdep update
 
 **Author:** Josep Rueda Collell  
 **Created:** October 2024  
-**Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)  
+**Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)
+**Affiliation:** [IKERLAN](https://www.ikerlan.es)
 
 ### Citation
 If you use this code, please cite:  
 **Josep Rueda Collell**. "ROS2 Extrinsic Camera Calibrator using ArUco Markers". (2024).
+
+
+Developed as part of **AI-PRISM** project.
+
+<a href="https://aiprism.eu/">
+<img src="https://aiprism.eu/wp-content/uploads/2022/11/Ai-Prism_Logo_Horizontal-e1669543082668-1024x221.png" height="48px" />
+</a>
+
+*AI Powered human-centred Robot Interactions for Smart Manufacturing*
+
+<a href="https://aiprism.eu/">
+<img src="https://aiprism.eu/wp-content/uploads/2022/11/eu_funded_en-1024x215.jpg" height="48px" />
+</a>
+
+Horizon Europe – Grant Agreement number [101058589](https://cordis.europa.eu/project/id/101058589)
+
+*Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. The European Union cannot be held responsible for them. Neither the European Union nor the granting authority can be held responsible for them.*
 
 ## License
 
