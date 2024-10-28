@@ -1,6 +1,6 @@
 # extrinsic_calibrator
 
-<img src="https://github.com/user-attachments/assets/919da609-5ca2-4430-bd95-0c143ad8b5aa" alt="setup_paint" width="100%"/>
+<img src="https://github.com/user-attachments/assets/5358e238-ceb2-4bd3-b44d-7d1464012325" alt="setup_paint" width="50%"/>
 
 <img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" alt="setup_paint" width="100%"/>
 
@@ -26,7 +26,7 @@ If you use this code, please cite:
 Developed as part of **AI-PRISM** project.
 
 <a href="https://aiprism.eu/">
-<img src="https://aiprism.eu/wp-content/uploads/2022/11/Ai-Prism_Logo_Horizontal-e1669543082668-1024x221.png" height="48px" />
+<img src="https://aiprism.eu/wp-content/uploads/2022/11/Ai-Prism_Logo_Horizontal-e1669543082668-1024x221.png" height="96px" />
 </a>
 
 *AI Powered human-centred Robot Interactions for Smart Manufacturing*
