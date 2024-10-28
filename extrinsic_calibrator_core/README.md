@@ -144,6 +144,7 @@ sudo pip install -r src/extrinsic_calibrator_core/dependencies.txt
 If you use this code, please cite:  
 **Josep Rueda Collell**. "ROS2 Extrinsic Camera Calibrator using ArUco Markers". (2024).
 
+---
 
 Developed as part of **AI-PRISM** project.
 

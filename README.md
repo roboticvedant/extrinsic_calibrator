@@ -14,18 +14,18 @@ This package is composed of two submodules:
 
 ## Author Information
 
-## Author Information
-
 **Author:** Josep Rueda Collell  
 **Created:** October 2024  
 **Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)  
 **Affiliation:** [IKERLAN](https://www.ikerlan.es)  
+
 <img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" alt="setup_paint" width="40%"/>
 
 ### Citation
 If you use this code, please cite:  
 **Josep Rueda Collell**. "ROS2 Extrinsic Camera Calibrator using ArUco Markers". (2024).
 
+---
 
 Developed as part of **AI-PRISM** project.
 
