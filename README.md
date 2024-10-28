@@ -1,4 +1,9 @@
 # extrinsic_calibrator
+
+<img src="https://github.com/user-attachments/assets/919da609-5ca2-4430-bd95-0c143ad8b5aa" alt="setup_paint" width="100%"/>
+
+<img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" alt="setup_paint" width="100%"/>
+
 `extrinsic_calibrator` is a ROS2 package designed to extrinsically calibrate a set of cameras distributed throughout a room. The calibration is performed using ArUco markers "randomly" scattered through the environment. Each camera detects one or several ArUco markers within its field of view and the algorithm reconstructs the positions of the markers to create a global map. The positions of the cameras are then computed and incorporated into this aforementioned map map.
 
 This package is composed of two submodules:
@@ -11,6 +16,7 @@ This package is composed of two submodules:
 **Created:** October 2024  
 **Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)  
 **Affiliation:** [IKERLAN](https://www.ikerlan.es)  
+<img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" height="48px" />
 
 ### Citation
 If you use this code, please cite:  
