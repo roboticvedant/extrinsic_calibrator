@@ -146,6 +146,7 @@ sudo apt-get update
 # install ros dependencies
 rosdep update
 ```
+
 ## Author Information
 
 **Author:** Josep Rueda Collell  
@@ -180,5 +181,5 @@ Horizon Europe – Grant Agreement number [101058589](https://cordis.europa.eu/p
 ## License
 
 This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
-See the [LICENSE](https://github.com/pep248/extrinsic_calibrator/blob/main/LICENSE) file for more details.
+See the [LICENSE](./LICENSE) file for more details.
 
