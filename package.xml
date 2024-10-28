@@ -1,25 +1,17 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>extrinsic_calibrator_examples</name>
+  <name>extrinsic_calibrator</name>
   <version>1.0.0</version>
-  <description>ROS2 package designed to provide examples on how to use the extrinsic_calibrator_core package as well as useful ros2 launch files to launch the cameras, the calibrator, as well as a demonstration rviz file.</description>
+  <description>ROS2 package designed to extrinsically calibrate a set of cameras distributed throughout a room.</description>
   <maintainer email="rueda_999@hotmail.com">pep248</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
   
-  <depend>rclcpp</depend>
-  <depend>rclpy</depend>
-  <depend>cv_bridge</depend>
   <depend>extrinsic_calibrator_core</depend>
-  <depend>rviz2</depend>
-  <depend>sensor_msgs</depend>
-  <depend>std_msgs</depend>
-  <depend>tf2_ros</depend>
-  <depend>tf_transformations</depend>
-  <depend>usb_cam</depend>
+  <depend>extrinsic_calibrator_examples</depend>
   
   <build_depend>rosidl_default_generators</build_depend>
   
