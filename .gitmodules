@@ -1,6 +1,0 @@
-[submodule "extrinsic_calibrator_core"]
-	path = extrinsic_calibrator_core
-	url = https://github.com/pep248/extrinsic_calibrator_core
-[submodule "extrinsic_calibrator_examples"]
-	path = extrinsic_calibrator_examples
-	url = https://github.com/pep248/extrinsic_calibrator_examples
