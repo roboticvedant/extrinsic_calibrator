@@ -15,8 +15,9 @@ This package is composed of two submodules:
 ## Installation
 
 
-To clone and install the package, navigate into your workspace run the following commands:
+To clone and install the package, navigate into your workspace and run the following commands:
 ```sh
+# clone the repository
 cd ./src
 git clone https://github.com/Ikerlan-KER/extrinsic_calibrator.git --branch humble
 cd ..
@@ -25,6 +26,8 @@ sudo apt-get update
 # install ros dependencies
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
+# build de workspace
+colcon build
 ```
 
 
