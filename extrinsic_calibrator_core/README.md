@@ -63,7 +63,7 @@ cameras_params:
 
 1. Place the ArUco marker with ID 0 where any camera can see it. This marker will serve as the reference point. The system will consider this marker's position as the origin (0,0,0) of the global coordinate system, called `map`.
 
-<img src="https://github.com/user-attachments/assets/45816ef9-deda-4200-a8b1-42fd3999c760" alt="setup_paint" width="100%"/>
+<img src="https://github.com/user-attachments/assets/fdf38088-eee8-4648-a192-d9df6b2c2c37" alt="setup_paint" width="100%"/>
 
 2. Distribute the remaining ArUco markers around the room, ensuring they're visible to different cameras.
 
@@ -75,25 +75,26 @@ cameras_params:
 
   Remember, the system first builds a map of marker positions, then determines camera positions based on this map. So, having markers visible to multiple cameras helps create a more accurate and interconnected calibration.
 
-  <img src="https://github.com/user-attachments/assets/3bc13824-a241-475a-bf4e-2e4b1650691a" alt="cameras_paint" width="100%"/>
+  <img src="![cameras_paint](https://github.com/user-attachments/assets/4ad78803-f451-4e2d-bd2b-a39e2df49f9b)
+" alt="cameras_paint" width="100%"/>
 
 3. Initiate the calibration process by running the `extrinsic_calibrator_node`.
 
-<img src="https://github.com/user-attachments/assets/8da30c20-f7fb-448c-9c24-5851c9d8aef3" alt="calibration_cameras_paint" width="100%"/>
+<img src="https://github.com/user-attachments/assets/737566b8-69ee-424e-ad97-f0cddda23562" alt="calibration_cameras_paint" width="100%"/>
 
 4. Wait for the algorithm to gather the transform of each marker from each camera. The algorithm will iteratively tell the user which marker transforms are finally reliable and which ones are still being verified.
 
-<img src="https://github.com/user-attachments/assets/31c7d46d-9936-454f-ab96-4d5bf8123879" alt="calibration_debug" width="100%"/>
+<img src="https://github.com/user-attachments/assets/70207ffc-39a4-4aa7-86bf-2cc6ce940463" alt="calibration_debug" width="100%"/>
 
 5. The calibrator will provide tables with useful information, while the calibration is taking place.
 
-<img src="https://github.com/user-attachments/assets/62f81fe5-fa43-4034-8e87-5d7e3ad86d14" alt="markers_per_cam" width="60%"/>
+<img src="https://github.com/user-attachments/assets/3d92d2de-0152-4fd3-89d3-3d56632eb82c" alt="markers_per_cam" width="60%"/>
 
-<img src="https://github.com/user-attachments/assets/da7421f7-c5cd-4c7e-b214-76f5ffd2e994" alt="marker_per_marker" width="60%"/>
+<img src="https://github.com/user-attachments/assets/4d8e2b21-d324-4d98-92f9-c2bb9a1f3e8e" alt="marker_per_marker" width="60%"/>
 
 6. Finally, once the calibration is done, the frame of each marker and camera will be published in tf2.
 
-<img src="https://github.com/user-attachments/assets/21d1daf6-b1f4-4eea-ac81-5ba6d5fa5aae" alt="tf_map" width="100%"/>
+<img src="https://github.com/user-attachments/assets/9b113b6d-e571-4c7e-81ca-356cdfe71376" alt="tf_map" width="100%"/>
 
 
 ### Launching the Calibrator
