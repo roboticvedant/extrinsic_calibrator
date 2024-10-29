@@ -150,7 +150,7 @@ rosdep update
 ## Author Information
 
 **Author:**
-- Josep Rueda Collell(mailto:rueda_999@hotmail.com)
+- [Josep Rueda Collell](mailto:rueda_999@hotmail.com)
 
 **Created:** October 2024
 
