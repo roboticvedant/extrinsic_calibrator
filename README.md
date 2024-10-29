@@ -6,7 +6,7 @@
 
 
 
-`extrinsic_calibrator` is a ROS2 package designed to extrinsically calibrate a set of cameras distributed throughout a room. The calibration is performed using ArUco markers "randomly" scattered through the environment. Each camera detects one or several ArUco markers within its field of view and the algorithm reconstructs the positions of the markers to create a global map. The positions of the cameras are then computed and incorporated into this aforementioned map map.
+`extrinsic_calibrator` is a ROS2 package designed to extrinsically calibrate a set of cameras distributed throughout a room. The calibration is performed using ArUco markers "randomly" scattered through the environment. Each camera detects one or several ArUco markers within its field of view and the algorithm reconstructs the positions of the markers to create a global map. The positions of the cameras are then computed and incorporated into this aforementioned map.
 
 This package is composed of two submodules:
 1. [extrinsic_calibrator_core](./extrinsic_calibrator_core) with the extrinsic calibrator itself and an ArUco generator to simplify the usage.
@@ -67,6 +67,9 @@ Horizon Europe – Grant Agreement number [101058589](https://cordis.europa.eu/p
 
 ## License
 
-This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
-See the [LICENSE](./license.md) file for more details.
+This software is provided under a dual license system. You may choose between:
 
+- **GNU Affero General Public License v3**: For open-source development, subject to the conditions of this license.
+- **Commercial License**: For proprietary use. For more details on the commercial license, please contact us at [info@ikerlan.es](mailto:info@ikerlan.es).
+
+Please see the [LICENSE](./license.md) file for the complete terms and conditions of each license option.
