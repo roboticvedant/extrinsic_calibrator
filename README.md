@@ -14,10 +14,13 @@ This package is composed of two submodules:
 
 ## Author Information
 
-**Author:** Josep Rueda Collell(mailto:rueda_999@hotmail.com)  
-**Author:** Ander Gonzalez(mailto:ander.gonzalez@ikelan.es)
-**Created:** October 2024  
-**Affiliation:** [IKERLAN](https://www.ikerlan.es)  
+**Author:**
+- Josep Rueda Collell(mailto:rueda_999@hotmail.com)  
+- Ander Gonzalez(mailto:ander.gonzalez@ikelan.es)
+
+**Created:** October 2024
+
+**Affiliation:** [IKERLAN](https://www.ikerlan.es)
 
 <img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" alt="setup_paint" width="40%"/>
 
