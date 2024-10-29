@@ -182,6 +182,9 @@ Horizon Europe – Grant Agreement number [101058589](https://cordis.europa.eu/p
 
 ## License
 
-This work is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
-See the [LICENSE](./license.md) file for more details.
+This software is provided under a dual license system. You may choose between:
 
+- **GNU Affero General Public License v3**: For open-source development, subject to the conditions of this license.
+- **Commercial License**: For proprietary use. For more details on the commercial license, please contact us at [info@ikerlan.es](mailto:info@ikerlan.es).
+
+Please see the [LICENSE](./license.md) file for the complete terms and conditions of each license option.
