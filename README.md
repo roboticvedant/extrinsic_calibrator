@@ -12,9 +12,25 @@ This package is composed of two submodules:
 1. [extrinsic_calibrator_core](./extrinsic_calibrator_core) with the extrinsic calibrator itself and an ArUco generator to simplify the usage.
 2. [extrinsic_calibrator_examples](./extrinsic_calibrator_examples) with some useful launch files to easily set up your cameras as well as a rviz visualizer node.
 
+## Installation
+
+
+To clone and install the package, navigate into your workspace run the following commands:
+```sh
+cd ./src
+git clone https://github.com/Ikerlan-KER/extrinsic_calibrator.git --branch humble
+cd ..
+# update libraries
+sudo apt-get update
+# install ros dependencies
+rosdep update
+rosdep install --from-paths src --ignore-src -r -y
+```
+
+
 ## Author Information
 
-**Author:**
+**Authors:**
 - Josep Rueda Collell(mailto:rueda_999@hotmail.com)  
 - Ander Gonzalez(mailto:ander.gonzalez@ikelan.es)
 

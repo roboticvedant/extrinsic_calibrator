@@ -128,8 +128,6 @@ sudo apt-get update
 # install ros dependencies
 rosdep update
 rosdep install --from-paths src --ignore-src -r -y
-# install python dependencies
-sudo pip install -r src/extrinsic_calibrator_core/dependencies.txt
 ```
 
 ## Author Information
