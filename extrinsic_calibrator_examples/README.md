@@ -149,9 +149,8 @@ rosdep update
 
 ## Author Information
 
-**Author:** Josep Rueda Collell  
-**Created:** October 2024  
-**Email:** [rueda_999@hotmail.com](mailto:rueda_999@hotmail.com)  
+**Author:** Josep Rueda Collell(mailto:rueda_999@hotmail.com)  
+**Created:** October 2024   
 **Affiliation:** [IKERLAN](https://www.ikerlan.es)  
 
 <img src="https://github.com/user-attachments/assets/41cb9091-52c5-4f90-bbc9-ec02814dee49" alt="setup_paint" width="40%"/>

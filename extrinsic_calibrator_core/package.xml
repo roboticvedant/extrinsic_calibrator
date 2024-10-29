@@ -4,7 +4,7 @@
   <name>extrinsic_calibrator_core</name>
   <version>1.0.0</version>
   <description>ROS2 package designed to calibrate a set of cameras distributed throughout a room. The calibration is performed using ArUco markers scattered randomly in the environment. Each camera detects one or several ArUco markers within its field of view, and the algorithm reconstructs the positions of the markers to create a global map.</description>
-  <maintainer email="rueda_999@hotmail.com">pep248</maintainer>
+  <maintainer email="rueda_999@hotmail.com">Josep Rueda Collell</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
@@ -13,7 +13,7 @@
   <depend>rclcpp</depend>
   <depend>rclpy</depend>
   <depend>cv_bridge</depend>
-  <depend>generate_parameter_library</depend>
+  <depend version_gte="0.3.9">generate_parameter_library</depend>
   <depend>sensor_msgs</depend>
   <depend>std_msgs</depend>
   <depend>tf2_ros</depend>
