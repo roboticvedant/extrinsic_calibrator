@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>extrinsic_calibrator_core</name>
-  <version>1.0.0</version>
+  <version>0.1.0</version>
   <description>ROS2 package designed to calibrate a set of cameras distributed throughout a room. The calibration is performed using ArUco markers scattered randomly in the environment. Each camera detects one or several ArUco markers within its field of view, and the algorithm reconstructs the positions of the markers to create a global map.</description>
   <maintainer email="rueda_999@hotmail.com">Josep Rueda Collell</maintainer>
-  <license>MIT</license>
+  <license>GPL-3.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
