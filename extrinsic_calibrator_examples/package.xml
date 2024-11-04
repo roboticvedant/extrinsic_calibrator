@@ -6,7 +6,7 @@
   <description>ROS2 package designed to provide examples on how to use the extrinsic_calibrator_core package as well as useful ros2 launch files to launch the cameras, the calibrator, as well as a demonstration rviz file.</description>
   <maintainer email="rueda_999@hotmail.com">Josep Rueda Collell</maintainer>
   <maintainer email="ander.gonzalez@ikelan.es">Ander Gonzalez</maintainer>
-  <license>GPL-3.0</license>
+  <license>AGPL-3.0</license>
   
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
