@@ -5,7 +5,7 @@
   <version>0.1.0</version>
   <description>ROS2 package designed to extrinsically calibrate a set of cameras distributed throughout a room.</description>
   <maintainer email="rueda_999@hotmail.com">Josep Rueda Collell</maintainer>
-  <license>AGPL-3.0</license>
+  <license>AGPL-3.0-only</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>ament_cmake_python</buildtool_depend>
