@@ -1,21 +1,45 @@
 # ------------------------------------------------------------------------------
+# This file is part of **extrinsic-calibrator:
+# October 2024
 # Copyright 2024 IKERLAN. All Rights Reserved.
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-# http://www.apache.org/licenses/LICENSE-2.0
 #
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+# LICENSE NOTICE
+#
+# This software is available under a dual license system. Choose between:
+# - GNU Affero General Public License v3.0 for open-source usage, or
+# - A commercial license for proprietary development.
+# For commercial license details, contact us at info@ikerlan.es.
+#
+# GNU Affero General Public License v3.0
+# Version 3, 19 November 2007
+# © 2007 Free Software Foundation, Inc. <https://fsf.org/>
+#
+# Licensed under a dual license system:
+# 1. Open-source usage under the GNU Affero General Public License v3.0
+#    (AGPL-3.0), allowing you to freely use, modify, and distribute the
+#    software for open-source projects. You can find a copy of the AGPL-3.0
+#    license at https://www.gnu.org/licenses/agpl-3.0.html.
+# 2. For commercial/proprietary use, a separate commercial license is required.
+#    Please contact us at info@ikerlan.es for inquiries about our commercial
+#    licensing options.
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 # Author Information:
 # Author: Josep Rueda Collell
 # Created: October 2024
-# Email: rueda_999@hotmail.com
 # Affiliation: IKERLAN (https://www.ikerlan.es)
 # ------------------------------------------------------------------------------
 
