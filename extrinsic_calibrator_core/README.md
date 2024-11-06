@@ -133,8 +133,9 @@ rosdep install --from-paths src --ignore-src -r -y
 
 ## Author Information
 
-**Author:** 
-- [Josep Rueda Collell](mailto:rueda_999@hotmail.com)
+**Authors:**
+- [Josep Rueda Collell](mailto:rueda_999@hotmail.com)  
+- [Ander Gonzalez](mailto:ander.gonzalez@ikelan.es)
 
 **Created:** October 2024
 
